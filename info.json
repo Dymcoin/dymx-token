@@ -1,0 +1,19 @@
+{
+  "name": "DYMX",
+  "symbol": "DYMX",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "DYMX is a utility token connecting the worlds of Crypto, Forex, and Artificial Intelligence through decentralized profit-sharing technology.",
+  "website": "https://dymx.io",
+  "explorer": "https://bscscan.com/token/0x48eB58E9dd1eaD118b1246D9De0Ea41A715AaDbB",
+  "status": "active",
+  "id": "0x48eB58E9dd1eaD118b1246D9De0Ea41A715AaDbB",
+  "tags": ["AI", "Forex", "RWA", "DeFi", "Automation", "Utility"],
+  "links": {
+    "twitter": "https://x.com/dymxcoin",
+    "telegram": "https://t.me/dymxcoin",
+    "whitepaper": "https://oradlacl.manus.space/",
+    "instagram": "https://instagram.com/dym.io",
+    "dexscreener": "https://dexscreener.com/bsc/0x48eB58E9dd1eaD118b1246D9De0Ea41A715AaDbB"
+  }
+}
