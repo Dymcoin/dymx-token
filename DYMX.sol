@@ -6,7 +6,7 @@ pragma solidity ^0.8.19;
 DYMX TOKEN - RWA Utility Token
 Issued by DYM (Do Your Money)
 Website: https://www.dymx.io
-Whitepaper: https://dymx.io/whitepaper.pdf
+Whitepaper: https://oradlacl.manus.space/  
 Network: Binance Smart Chain (BEP-20)
 Contract Address: 0x48eB58E9dd1eaD118b1246D9De0Ea41A715AaDbB
 ---------------------------------------------------------------
