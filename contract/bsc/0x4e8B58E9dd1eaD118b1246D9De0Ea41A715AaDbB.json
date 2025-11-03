@@ -1,0 +1,9 @@
+{
+  "network": "BSC",
+  "address": "0x4e8B58E9dd1eaD118b1246D9De0Ea41A715AaDbB",
+  "name": "DYMX",
+  "symbol": "DYMX",
+  "decimals": 18,
+  "verified": true,
+  "source": "https://bscscan.com/token/0x4e8B58E9dd1eaD118b1246D9De0Ea41A715AaDbB"
+}
